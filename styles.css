@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/*
+	This is a comment.
+
+	CSS is used to define styles that a web browser uses to display the page.
+
+	All the styles defined in a file are known as a stylesheet.
+
+	In general, you use it as:
+
+	selector {
+		property : value;
+		property : value;
+	}
+
+	selector is an element on the page
+	different elements have properties
+
+*/
+
+body {  /* selects the entire body of the web page, good for styles applicable everywhere */
+	font-family: tahoma, arial, sans-serif;
+	font-size: 100%;  /* can also specify it in em's:  1em, 1.2em, 1.5em, etc. */
+	background-color: #ffffff;  /* color specified in hex from 000000 to ffffff */
+}
