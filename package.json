@@ -2,7 +2,7 @@
   "name": "web page starter",
   "version": "1.0.0",
   "description": "Files to get a web page stared",
-  "main": "content.html",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
